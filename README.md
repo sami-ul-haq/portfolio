@@ -1,6 +1,6 @@
 # My Portfolio
 Portfolio ( Responsive )
-### https://github.com/sami-ul-haq
+### https://sami-ul-haq.github.io/portfolio/
 
 # Follow Me 
 ## [Facebook](https://www.facebook.com/sami.ul.haq.2017)

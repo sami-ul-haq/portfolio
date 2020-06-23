@@ -1,3 +1,4 @@
+# NOTE: Some Icons May Not Work Rightnow As icons8.com Is Not Working  
 # My Portfolio
 Portfolio ( Responsive )
 ### https://sami-ul-haq.github.io/portfolio/

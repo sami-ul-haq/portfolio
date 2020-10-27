@@ -397,6 +397,7 @@ p {
 	height: 300px;
 	overflow: hidden;
 	position: relative;
+	cursor: pointer;
 }
 #projects .project-img:after {
 	content: '';

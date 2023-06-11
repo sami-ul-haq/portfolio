@@ -4,6 +4,6 @@ New Version is coming Soon ...
 
 # Follow Me 
 ## [LinkeDin](https://www.linkedin.com/in/sami-ul-haq/)
-## [Twitter](https://www.linkedin.com/in/sami-ul-haq/)
+## [Twitter](https://twitter.com/samiulhaqdev)
 ## [Facebook](https://www.facebook.com/sami.ul.haq.2017)
 ## [Instagram](https://www.instagram.com/_samiulhaq/)
